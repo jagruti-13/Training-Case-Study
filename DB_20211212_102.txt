@@ -1,0 +1,11 @@
+PNR:  DB_20211212_102
+Train No:  1002
+From:  Delhi
+To:  Banglore
+Travel Date: 2021-12-12
+Passengers: 
+Name 	 Age 	Gender 	 Fare 
+Jagz	12	F	1250.0
+Gaurav	23	F	1875.0
+
+Total Price:  3125.0

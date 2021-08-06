@@ -1,0 +1,11 @@
+PNR:  BM_20221222_102
+Train No:  1003
+From:  Banglore
+To:  Mumbai
+Travel Date: 2022-12-22
+Passengers: 
+Name 	 Age 	Gender 	 Fare 
+Jgaz	22	F	1125.0
+Kunika	23	F	1125.0
+
+Total Price:  2250.0
